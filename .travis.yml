@@ -1,6 +1,6 @@
 language: python
 python:
-- '3.7'
+- '3.6'
 script: python -m unittest
 notifications:
   slack: orbika:akEo0aM8kIBVny9IlddsoeST
